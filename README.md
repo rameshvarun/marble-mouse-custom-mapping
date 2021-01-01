@@ -1,7 +1,7 @@
 # Marble Mouse Custom Level Guide
 
 - Marble Mouse levels are created in Blender and exported in the `.glb` format.
-- Levels can either be shared directly as a file or submitted to [Marble Mouse World]() for anyone to play.
+- Levels can either be shared directly as a file or submitted to [Marble Mouse World](https://github.com/rameshvarun/marble-mouse-world) for anyone to play.
 
 <img width="800px" src="./images/blender-screenshot.png"/>
 
